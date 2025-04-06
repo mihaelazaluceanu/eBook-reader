@@ -2,7 +2,7 @@
 Dispozitiv electronic, portabil,  folosit drept cititor de e-books, construit în jurul modulului **ESP32-C6-WROOM-1-N8**.
 
 ### Diagrama Bloc
-![Diagrama Bloc]()
+![Diagrama Bloc](Images/diagrama_bloc.jpg)
 
 ### BOM (Bill of Materials)
 **Note:** TP-urile nu apar în tabel deoarece pentru implementarea acestora am folost un design propriu.
