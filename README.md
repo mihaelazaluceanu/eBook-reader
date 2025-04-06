@@ -1,4 +1,4 @@
-# eBook Reader
+# eBook Reader - Zaluceanu Mihaela
 Dispozitiv electronic, portabil,  folosit drept cititor de e-books, construit în jurul modulului **ESP32-C6-WROOM-1-N8**.
 
 ### Diagrama Bloc
